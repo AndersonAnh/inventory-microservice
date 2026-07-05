@@ -153,4 +153,5 @@ public class OrderServiceIntegrationTest {
                 .withFailMessage("Сообщение OrderCreated:%d не найдено в топике order_events", orderId)
                 .isTrue();
     }
+    //коммент для гита чтоб закомитить
 }
